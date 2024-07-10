@@ -1,4 +1,5 @@
-[![Visits Badge](https://badges.pufler.dev/visits/dx0ff)](https://github.com/dx0ff)
+[![Visits Badge](https://badges.pufler.dev/visits/dx0ff/dx0ff)](https://badges.pufler.dev)
+
 ## Welcome HODLER! 👋
 
 
