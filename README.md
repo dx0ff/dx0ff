@@ -8,6 +8,7 @@
 - Penetration Testing (Pen-Testing) and ethical hacking
 - Python programming and its applications
 - Full-Stack Development and building robust web solutions
+- Cryptocurrency 🪙
 
 ⚡ Fun fact: I'm a self-taught coder who turned a hobby into a career, and I'm always looking for new challenges!
 
@@ -20,6 +21,8 @@
 - Java
 - HTML, CSS, JS
 
+
+##### CODEWARS BADGE 
 - <img align="center" src="https://www.codewars.com/users/dx0ff/badges/large" height= "100" />
 
 
