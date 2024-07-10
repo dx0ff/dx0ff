@@ -1,3 +1,4 @@
+[![Visits Badge](https://badges.pufler.dev/visits/dx0ff)](https://github.com/dx0ff)
 ## Welcome HODLER! 👋
 
 
@@ -8,7 +9,9 @@
 - Penetration Testing (Pen-Testing) and ethical hacking
 - Python programming and its applications
 - Full-Stack Development and building robust web solutions
-- Cryptocurrency 🪙
+- Cryptocurrency and blockchain: Decentralized systems, innovative use cases, and the future of finance
+- Networking and connectivity: WAN troubleshooting, network optimization, and secure network design
+
 
 ⚡ Fun fact: I'm a self-taught coder who turned a hobby into a career, and I'm always looking for new challenges!
 
