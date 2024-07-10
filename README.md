@@ -1,16 +1,23 @@
-## Hi there 👋
+## Welcome HODLER! 👋
 
-<!--
-**dx0ff/dx0ff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🌱 Learning and growing with The Odin Project, where I'm mastering Web Development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Let's chat about:
+
+- Penetration Testing (Pen-Testing) and ethical hacking
+- Python programming and its applications
+- Full-Stack Development and building robust web solutions
+
+⚡ Fun fact: I'm a self-taught coder who turned a hobby into a career, and I'm always looking for new challenges!
+
+👥 Collaboration opportunities:
+
+- Web Development: I'm seeking collaborators who share my passion for building fast, secure, and scalable web application
+
+💻 Programming languages
+- Python
+- Java
+- HTML, CSS, JS
+
+- ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `#c5f015` <a target="blank><img align="center" src="https://www.codewars.com/users/dx0ff/badges/large" height= "100" /></a>
