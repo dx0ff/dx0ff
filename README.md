@@ -20,4 +20,4 @@
 - Java
 - HTML, CSS, JS
 
-- ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) <img align="center" src="https://www.codewars.com/users/dx0ff/badges/large" height= "100" width="100"/>
+- ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) <img align="center" src="https://www.codewars.com/users/dx0ff/badges/large" height= "200" width="100"/>
